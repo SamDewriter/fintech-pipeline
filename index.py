@@ -10,3 +10,5 @@ import numpy as np
 # Create a Pandas series from a list
 data = ['Mubarak', 'Adeola', 'John']
 s = pd.Series(data)
+
+print(s)
